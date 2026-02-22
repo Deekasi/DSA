@@ -3,7 +3,7 @@
 
 Welcome to my DSA Daily Streaks – 2026 repository!
 
-This repository documents my commitment to solving Data Structures and Algorithms (DSA) problems daily throughout 2025. The goal is to strengthen problem-solving skills, improve consistency, and prepare for coding interviews and competitive programming.
+This repository documents my commitment to solving Data Structures and Algorithms (DSA) problems daily throughout 2026. The goal is to strengthen problem-solving skills, improve consistency, and prepare for coding interviews and competitive programming.
 
 - [x] Day 1 (Jan 1)
 - [x] Day 2 (Jan 2)
