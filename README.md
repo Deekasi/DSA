@@ -11,7 +11,7 @@ This repository documents my commitment to solving Data Structures and Algorithm
 
 
 ## Goals
-> Maintain a daily DSA solving streak
-> Strengthen core concepts (Arrays, Strings, Recursion, DP, Graphs, etc.)
-> Improve problem-solving speed and accuracy
-> Prepare for technical interviews & competitive coding
+- Maintain a daily DSA solving streak
+- Strengthen core concepts (Arrays, Strings, Recursion, DP, Graphs, etc.)
+- Improve problem-solving speed and accuracy
+- Prepare for technical interviews & competitive coding
